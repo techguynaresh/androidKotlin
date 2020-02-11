@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Simple Login Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_user_home">UserHomeActivity</string>
+    <string name="loginButton">लॉग इन करें</string>
+    <string name="passwordText">कुंजिका</string>
+    <string name="welcomeTest">लॉग इन Page</string>
+    <string name="usernameText">उपयोगकर्ता नाम</string>
+    <string name="logoutButton">लॉग आउट</string>
+</resources>
